@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Heebo';
+    src: url('Fonts/Heebo/static/Heebo-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style:normal;
+}
+
+
+.my_name h1{
+    font-family: 'Heebo';
+    color:black; 
+    font-size:300%; 
+    margin-top:0;
+    margin-bottom:0; 
+    margin-left:3em;
+}
