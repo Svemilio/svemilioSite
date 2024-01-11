@@ -14,3 +14,11 @@
     margin-bottom:0; 
     margin-left:3em;
 }
+
+.title_my_project h2{
+    
+    font-family: 'Heebo';
+    margin: 0;
+    margin-top: 2em;
+    text-align:center;
+}
