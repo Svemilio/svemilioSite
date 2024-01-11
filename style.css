@@ -22,3 +22,20 @@
     margin-top: 2em;
     text-align:center;
 }
+
+button {
+    font-family: 'Heebo';
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color:blanchedalmond;
+    color: black;
+    border: 2px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
